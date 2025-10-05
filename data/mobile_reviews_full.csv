@@ -1,0 +1,751 @@
+company,product_name,review_text,rating,date,sentiment
+Apple,iPhone 14,Camera quality ok but not great.,1,2020-12-24,Negative
+Realme,Realme 6,Amazing speed and smooth gaming.,5,2022-08-25,Positive
+Xiaomi,Redmi Note 12,Display quality next level 🔥,4,2021-01-26,Positive
+Vivo,V23,"Battery life average, one day matrame.",3,2021-05-19,Neutral
+Oppo,Reno 6,"Performance top notch, lag e ledhu.",5,2023-07-23,Positive
+Nokia,5.4,"Camera super ga undi, performance bagundi.",5,2021-05-08,Positive
+Motorola,G32,Display quality next level 🔥,5,2023-03-02,Positive
+Samsung,S20,Charging time ekkuva padutundi.,1,2023-08-07,Negative
+Poco,X3,Charging time ekkuva padutundi.,1,2023-12-15,Negative
+Motorola,G22,Cost ekkuva but features super.,5,2023-11-25,Positive
+Vivo,V19,Gaming chesthe heat ekkuva avutundi.,1,2020-08-30,Negative
+Motorola,G22,Display quality next level 🔥,4,2023-05-24,Positive
+Motorola,G32,Cost ekkuva but features super.,5,2023-11-08,Positive
+OnePlus,9 Pro,"Heating issue vachesindi, not good.",1,2022-01-25,Negative
+Motorola,G10,Amazing speed and smooth gaming.,5,2024-01-15,Positive
+Samsung,S22,"Camera super ga undi, performance bagundi.",5,2020-10-24,Positive
+Nokia,C21,"Camera super ga undi, performance bagundi.",4,2020-08-14,Positive
+Xiaomi,Redmi Note 11,"Heating issue vachesindi, not good.",1,2024-08-11,Negative
+Oppo,A52,"Price thakkuva undali, too costly.",1,2020-04-18,Negative
+Xiaomi,Redmi Note 10,"Battery life average, one day matrame.",3,2023-03-22,Neutral
+Realme,Realme 11,Charging time ekkuva padutundi.,1,2021-07-11,Negative
+Xiaomi,Redmi Note 12,"Price kuda parvaledu, value for money.",3,2023-04-07,Neutral
+Xiaomi,Redmi Note 10,Gaming chesthe heat ekkuva avutundi.,2,2024-06-24,Negative
+Oppo,Reno 8,Performance slow ga undi.,1,2024-06-14,Negative
+Vivo,V25,"Camera parvaledu, not bad.",3,2024-06-21,Neutral
+Samsung,S22,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2024-02-29,Positive
+Xiaomi,Redmi Note 12,"Screen quality average, not impressed.",2,2023-02-26,Negative
+Oppo,A74,"Camera super ga undi, performance bagundi.",4,2021-04-05,Positive
+Motorola,G32,Gaming chesthe heat ekkuva avutundi.,1,2020-02-23,Negative
+Apple,iPhone 11,Display quality next level 🔥,5,2024-03-22,Positive
+Vivo,V17,"Design chala attractive ga undi, worth buying.",5,2023-08-03,Positive
+OnePlus,8T,"Sound system fine, not too loud.",3,2021-12-16,Neutral
+Motorola,G9,Performance slow ga undi.,2,2020-03-02,Negative
+OnePlus,7T,"Camera super ga undi, performance bagundi.",5,2023-05-27,Positive
+Oppo,A52,"Design chala attractive ga undi, worth buying.",5,2020-01-11,Positive
+Samsung,S20,Performance parvaledu.,3,2020-09-06,Neutral
+Oppo,A54,"Ok ok mobile, nothing special.",3,2021-01-23,Neutral
+Motorola,G22,Charging time ekkuva padutundi.,1,2023-02-04,Negative
+Poco,F5,Display quality next level 🔥,5,2021-06-11,Positive
+Nokia,C21,Updates slow ga vastunnayi.,1,2023-01-06,Negative
+Samsung,S20,"Design chala attractive ga undi, worth buying.",5,2020-02-25,Positive
+Vivo,V17,"Heating issue vachesindi, not good.",2,2021-11-19,Negative
+OnePlus,8T,"Battery baaledu, fast drain avutundi.",2,2024-08-29,Negative
+Nokia,8.3,Gaming chesthe heat ekkuva avutundi.,1,2022-12-26,Negative
+Realme,Realme 6,Camera quality ok but not great.,1,2023-11-23,Negative
+Poco,X4,Updates slow ga vastunnayi.,1,2021-12-01,Negative
+Vivo,V17,"Camera quality bagundi, especially night mode.",5,2020-10-31,Positive
+Poco,X3,"Average performance, normal usage ki saripothundi.",3,2021-07-11,Neutral
+OnePlus,8T,"Battery baaledu, fast drain avutundi.",1,2020-06-26,Negative
+Samsung,S24,"Performance top notch, lag e ledhu.",4,2023-03-10,Positive
+Poco,F3,"Design chala attractive ga undi, worth buying.",5,2024-06-28,Positive
+Xiaomi,Redmi Note 12,Performance parvaledu.,3,2021-09-22,Neutral
+OnePlus,10 Pro,Gaming chesthe heat ekkuva avutundi.,2,2021-04-08,Negative
+Nokia,6.1,"Design chala attractive ga undi, worth buying.",4,2021-03-25,Positive
+OnePlus,8T,"Battery life average, one day matrame.",3,2020-09-22,Neutral
+Vivo,V23,"Camera quality bagundi, especially night mode.",5,2021-09-12,Positive
+Motorola,G8,Performance slow ga undi.,2,2022-07-18,Negative
+Xiaomi,Redmi Note 9,"Battery life average, one day matrame.",3,2020-07-10,Neutral
+Samsung,S20,"Performance top notch, lag e ledhu.",4,2020-12-19,Positive
+Xiaomi,Redmi Note 12,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2023-04-06,Positive
+Realme,Realme 11,"Performance top notch, lag e ledhu.",4,2020-01-08,Positive
+Nokia,7.2,"Sound system fine, not too loud.",3,2022-10-15,Neutral
+Apple,iPhone 15,"Display ok, colors normal ga unnayi.",3,2020-08-01,Neutral
+Oppo,A52,Display quality next level 🔥,5,2023-08-25,Positive
+OnePlus,11,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2022-12-29,Positive
+Vivo,V19,Charging time ekkuva padutundi.,2,2020-12-09,Negative
+Motorola,G9,Design simple ga undi.,3,2021-06-10,Neutral
+Samsung,S24,Gaming chesthe heat ekkuva avutundi.,1,2021-01-16,Negative
+Nokia,8.3,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2023-09-16,Positive
+Samsung,S24,"Camera super ga undi, performance bagundi.",4,2023-01-11,Positive
+Realme,Realme 10,Design outdated ga anipistundi.,2,2020-08-29,Negative
+OnePlus,10 Pro,"Camera super ga undi, performance bagundi.",5,2024-01-01,Positive
+Nokia,6.1,"Super fast charging, baaga impress ayyanu.",4,2023-05-31,Positive
+Realme,Realme 10,"Super fast charging, baaga impress ayyanu.",5,2024-02-08,Positive
+OnePlus,7T,"Design chala attractive ga undi, worth buying.",4,2024-03-04,Positive
+Motorola,G32,"Camera parvaledu, not bad.",3,2021-11-10,Neutral
+Poco,F5,"Display ok, colors normal ga unnayi.",3,2023-07-17,Neutral
+Xiaomi,Redmi Note 12,"Heating issue vachesindi, not good.",2,2023-12-05,Negative
+Vivo,V23,"Sound system fine, not too loud.",3,2021-05-26,Neutral
+Realme,Realme 7,Design outdated ga anipistundi.,2,2020-05-22,Negative
+OnePlus,10 Pro,"Battery baaledu, fast drain avutundi.",2,2023-05-24,Negative
+Nokia,C21,"Price kuda parvaledu, value for money.",3,2024-06-29,Neutral
+Realme,Realme 10,"Screen quality average, not impressed.",1,2021-06-26,Negative
+OnePlus,9 Pro,"Design chala attractive ga undi, worth buying.",4,2024-08-09,Positive
+Samsung,S21,"Battery baaledu, fast drain avutundi.",2,2021-12-26,Negative
+Motorola,G8,"Screen quality average, not impressed.",1,2022-05-11,Negative
+Poco,X4,Updates slow ga vastunnayi.,2,2020-11-07,Negative
+Samsung,S20,"Screen quality average, not impressed.",2,2023-02-15,Negative
+Xiaomi,Redmi Note 11,"Sound system fine, not too loud.",3,2022-04-11,Neutral
+OnePlus,7T,"Price kuda parvaledu, value for money.",3,2024-08-18,Neutral
+Vivo,V17,"Screen quality average, not impressed.",2,2022-04-28,Negative
+Oppo,A74,Updates slow ga vastunnayi.,2,2024-08-11,Negative
+Poco,X3,Camera quality ok but not great.,1,2023-06-04,Negative
+OnePlus,11,Display quality next level 🔥,4,2023-04-13,Positive
+Motorola,G8,"Super fast charging, baaga impress ayyanu.",4,2020-04-21,Positive
+Apple,iPhone 15,Design simple ga undi.,3,2021-02-12,Neutral
+Realme,Realme 10,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-05-02,Positive
+Poco,F4,Amazing speed and smooth gaming.,5,2023-12-20,Positive
+Oppo,A74,Amazing speed and smooth gaming.,4,2021-09-11,Positive
+Samsung,S22,Performance parvaledu.,3,2021-08-12,Neutral
+Realme,Realme 8,"Camera quality bagundi, especially night mode.",4,2023-10-27,Positive
+OnePlus,11,"Performance top notch, lag e ledhu.",5,2021-03-31,Positive
+Vivo,V23,Display quality next level 🔥,5,2022-11-23,Positive
+Oppo,Reno 6,"Display ok, colors normal ga unnayi.",3,2023-09-08,Neutral
+Realme,Realme 6,Cost ekkuva but features super.,5,2021-09-26,Positive
+Apple,iPhone 11,Camera quality ok but not great.,1,2023-04-10,Negative
+Poco,F4,"Design chala attractive ga undi, worth buying.",4,2022-03-28,Positive
+Vivo,V25,"Super fast charging, baaga impress ayyanu.",5,2023-08-04,Positive
+Nokia,5.4,Gaming chesthe heat ekkuva avutundi.,1,2020-07-02,Negative
+Poco,F5,"Screen quality average, not impressed.",2,2023-11-14,Negative
+Motorola,G32,"Ok ok mobile, nothing special.",3,2022-11-28,Neutral
+Motorola,G9,"Super fast charging, baaga impress ayyanu.",5,2022-02-15,Positive
+Xiaomi,Mi 12,Updates slow ga vastunnayi.,2,2021-11-05,Negative
+Poco,F4,"Camera quality bagundi, especially night mode.",5,2020-11-08,Positive
+Poco,X4,"Super fast charging, baaga impress ayyanu.",4,2022-02-21,Positive
+Realme,Realme 7,Gaming chesthe heat ekkuva avutundi.,1,2024-07-18,Negative
+Vivo,V23,"Camera super ga undi, performance bagundi.",5,2022-10-22,Positive
+Oppo,A52,"Camera quality bagundi, especially night mode.",4,2023-11-05,Positive
+Oppo,Reno 8,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2021-11-03,Positive
+Oppo,A54,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-10-29,Positive
+Xiaomi,Redmi Note 10,Design outdated ga anipistundi.,1,2021-12-11,Negative
+Vivo,V17,"Performance top notch, lag e ledhu.",5,2020-10-16,Positive
+Oppo,A52,Updates slow ga vastunnayi.,2,2021-12-22,Negative
+Motorola,G8,Display quality next level 🔥,5,2023-08-10,Positive
+Apple,iPhone 15,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-05-25,Positive
+Xiaomi,Redmi Note 11,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2022-01-09,Positive
+Poco,F5,"Camera parvaledu, not bad.",3,2022-11-23,Neutral
+Vivo,V25,Design outdated ga anipistundi.,1,2023-08-31,Negative
+Xiaomi,Mi 12,Performance parvaledu.,3,2022-12-07,Neutral
+Motorola,G22,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2020-09-05,Positive
+Realme,Realme 8,"Battery life average, one day matrame.",3,2022-01-31,Neutral
+Poco,X3,"Performance top notch, lag e ledhu.",4,2022-05-09,Positive
+Poco,F5,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2020-02-10,Positive
+Vivo,V17,Performance slow ga undi.,1,2023-09-16,Negative
+Realme,Realme 10,Design outdated ga anipistundi.,2,2021-09-21,Negative
+Poco,F5,Design simple ga undi.,3,2022-02-07,Neutral
+Samsung,S23,"Super fast charging, baaga impress ayyanu.",5,2020-03-12,Positive
+Xiaomi,Redmi Note 11,Amazing speed and smooth gaming.,5,2021-02-05,Positive
+Xiaomi,Redmi Note 12,"Average performance, normal usage ki saripothundi.",3,2020-08-10,Neutral
+Xiaomi,Redmi Note 12,"Screen quality average, not impressed.",2,2020-08-31,Negative
+Oppo,A52,"Camera super ga undi, performance bagundi.",4,2022-10-06,Positive
+Motorola,G9,Display quality next level 🔥,4,2021-04-11,Positive
+Nokia,C21,"Camera super ga undi, performance bagundi.",4,2022-05-24,Positive
+Apple,iPhone 14,Camera quality ok but not great.,1,2024-03-09,Negative
+Vivo,V17,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2024-03-19,Positive
+Apple,iPhone 12,"Display ok, colors normal ga unnayi.",3,2023-06-14,Neutral
+Oppo,A74,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2020-08-10,Positive
+Poco,F3,"Performance top notch, lag e ledhu.",5,2023-08-18,Positive
+Apple,iPhone 11,"Screen quality average, not impressed.",1,2024-07-07,Negative
+Motorola,G22,Design outdated ga anipistundi.,2,2020-08-20,Negative
+Realme,Realme 8,Display quality next level 🔥,5,2024-07-19,Positive
+Realme,Realme 8,Charging time ekkuva padutundi.,1,2020-10-02,Negative
+Poco,F3,"Performance top notch, lag e ledhu.",5,2020-06-11,Positive
+OnePlus,9 Pro,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-05-16,Positive
+Xiaomi,Mi 12,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2022-09-16,Positive
+OnePlus,8T,"Screen quality average, not impressed.",2,2021-03-24,Negative
+Poco,F4,"Price kuda parvaledu, value for money.",3,2020-12-31,Neutral
+Oppo,A74,"Ok for regular tasks, gaming ki not suitable.",3,2020-04-11,Neutral
+Xiaomi,Redmi Note 12,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2020-02-04,Positive
+OnePlus,8T,"Battery baaledu, fast drain avutundi.",1,2022-08-17,Negative
+Nokia,7.2,Display quality next level 🔥,4,2021-02-04,Positive
+Motorola,G8,"Super fast charging, baaga impress ayyanu.",5,2024-05-23,Positive
+Samsung,S21,Cost ekkuva but features super.,4,2023-12-10,Positive
+Realme,Realme 7,"Heating issue vachesindi, not good.",1,2023-05-03,Negative
+Nokia,6.1,Amazing speed and smooth gaming.,5,2022-03-16,Positive
+Samsung,S21,"Camera super ga undi, performance bagundi.",4,2023-09-13,Positive
+Apple,iPhone 15,"Ok for regular tasks, gaming ki not suitable.",3,2021-05-30,Neutral
+Samsung,S23,Amazing speed and smooth gaming.,5,2021-08-14,Positive
+Samsung,S23,"Design chala attractive ga undi, worth buying.",5,2024-03-06,Positive
+Realme,Realme 8,"Camera quality bagundi, especially night mode.",4,2024-05-28,Positive
+Vivo,V15,Camera quality ok but not great.,1,2024-08-16,Negative
+Apple,iPhone 13,"Display ok, colors normal ga unnayi.",3,2022-10-27,Neutral
+Samsung,S24,"Design chala attractive ga undi, worth buying.",4,2023-12-10,Positive
+Vivo,V15,Performance slow ga undi.,2,2021-02-25,Negative
+Motorola,G22,"Camera quality bagundi, especially night mode.",5,2023-10-13,Positive
+Xiaomi,Redmi Note 9,"Super fast charging, baaga impress ayyanu.",5,2022-06-26,Positive
+Oppo,A74,"Price kuda parvaledu, value for money.",3,2023-09-06,Neutral
+Apple,iPhone 11,Amazing speed and smooth gaming.,5,2023-11-27,Positive
+Oppo,Reno 6,Display quality next level 🔥,4,2021-11-03,Positive
+Samsung,S22,"Price thakkuva undali, too costly.",1,2021-11-30,Negative
+Samsung,S21,Camera quality ok but not great.,1,2023-02-22,Negative
+Motorola,G9,Design simple ga undi.,3,2020-04-12,Neutral
+Poco,F4,Performance slow ga undi.,2,2020-08-14,Negative
+Oppo,Reno 8,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-05-08,Positive
+Realme,Realme 7,"Performance top notch, lag e ledhu.",4,2023-02-04,Positive
+Vivo,V17,"Camera quality bagundi, especially night mode.",4,2022-02-17,Positive
+Vivo,V17,"Screen quality average, not impressed.",2,2022-05-06,Negative
+Nokia,6.1,Charging time ekkuva padutundi.,1,2020-12-22,Negative
+Apple,iPhone 12,"Battery baaledu, fast drain avutundi.",2,2024-07-04,Negative
+Poco,X4,Design simple ga undi.,3,2023-09-01,Neutral
+Vivo,V19,Camera quality ok but not great.,2,2020-10-07,Negative
+Nokia,6.1,Amazing speed and smooth gaming.,5,2023-05-15,Positive
+Nokia,8.3,Updates slow ga vastunnayi.,1,2023-08-28,Negative
+Samsung,S21,"Sound system fine, not too loud.",3,2020-05-18,Neutral
+Nokia,C21,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2020-07-09,Positive
+Xiaomi,Redmi Note 9,Design simple ga undi.,3,2023-02-13,Neutral
+Poco,X4,"Average performance, normal usage ki saripothundi.",3,2020-10-12,Neutral
+Motorola,G10,"Design chala attractive ga undi, worth buying.",5,2020-03-11,Positive
+Vivo,V25,"Battery baaledu, fast drain avutundi.",2,2023-10-04,Negative
+Oppo,A52,"Camera parvaledu, not bad.",3,2023-09-18,Neutral
+Realme,Realme 7,"Camera quality bagundi, especially night mode.",4,2020-07-17,Positive
+Xiaomi,Mi 12,"Design chala attractive ga undi, worth buying.",5,2020-10-19,Positive
+Oppo,Reno 8,Amazing speed and smooth gaming.,4,2024-07-14,Positive
+Oppo,Reno 8,Amazing speed and smooth gaming.,4,2022-08-07,Positive
+Xiaomi,Redmi Note 10,Cost ekkuva but features super.,5,2020-09-07,Positive
+Apple,iPhone 11,Updates slow ga vastunnayi.,2,2020-07-22,Negative
+Samsung,S21,"Performance top notch, lag e ledhu.",5,2024-01-06,Positive
+Apple,iPhone 14,Amazing speed and smooth gaming.,4,2021-10-31,Positive
+Samsung,S23,"Price kuda parvaledu, value for money.",3,2022-02-08,Neutral
+Apple,iPhone 15,"Camera quality bagundi, especially night mode.",5,2023-10-12,Positive
+Vivo,V17,"Camera quality bagundi, especially night mode.",4,2020-05-25,Positive
+Xiaomi,Redmi Note 12,Charging time ekkuva padutundi.,2,2020-05-28,Negative
+Vivo,V19,"Battery life average, one day matrame.",3,2023-09-26,Neutral
+Motorola,G32,Charging time ekkuva padutundi.,2,2024-03-01,Negative
+Vivo,V17,Design outdated ga anipistundi.,1,2020-01-13,Negative
+Apple,iPhone 14,"Design chala attractive ga undi, worth buying.",4,2023-11-06,Positive
+Oppo,A54,"Screen quality average, not impressed.",1,2021-10-09,Negative
+Realme,Realme 7,"Display ok, colors normal ga unnayi.",3,2020-04-05,Neutral
+Apple,iPhone 14,"Design chala attractive ga undi, worth buying.",5,2020-07-24,Positive
+Vivo,V19,"Camera quality bagundi, especially night mode.",4,2020-03-03,Positive
+Nokia,5.4,"Performance top notch, lag e ledhu.",5,2023-07-31,Positive
+Xiaomi,Mi 12,Design outdated ga anipistundi.,1,2020-03-09,Negative
+Vivo,V25,"Camera super ga undi, performance bagundi.",4,2024-01-23,Positive
+Realme,Realme 6,Updates slow ga vastunnayi.,2,2022-11-04,Negative
+Vivo,V25,Display quality next level 🔥,5,2022-03-13,Positive
+Nokia,5.4,Design simple ga undi.,3,2022-12-26,Neutral
+Nokia,6.1,Cost ekkuva but features super.,5,2021-03-09,Positive
+OnePlus,10 Pro,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2023-12-20,Positive
+Apple,iPhone 11,"Camera super ga undi, performance bagundi.",4,2022-01-30,Positive
+Motorola,G22,"Camera parvaledu, not bad.",3,2020-07-05,Neutral
+Vivo,V19,Updates slow ga vastunnayi.,2,2022-05-16,Negative
+Apple,iPhone 11,Cost ekkuva but features super.,4,2020-04-16,Positive
+Apple,iPhone 14,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2022-03-23,Positive
+Poco,F4,"Price kuda parvaledu, value for money.",3,2023-10-01,Neutral
+Realme,Realme 11,Cost ekkuva but features super.,5,2023-03-27,Positive
+Poco,F4,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2023-05-22,Positive
+Xiaomi,Redmi Note 12,"Ok for regular tasks, gaming ki not suitable.",3,2020-05-10,Neutral
+Nokia,8.3,"Camera quality bagundi, especially night mode.",4,2020-07-19,Positive
+Apple,iPhone 15,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-03-16,Positive
+Vivo,V17,Cost ekkuva but features super.,4,2022-04-23,Positive
+Oppo,A74,"Camera parvaledu, not bad.",3,2023-10-29,Neutral
+OnePlus,11,Design outdated ga anipistundi.,1,2022-11-26,Negative
+Realme,Realme 6,Performance parvaledu.,3,2021-06-29,Neutral
+Oppo,A52,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2024-03-24,Positive
+Vivo,V15,"Heating issue vachesindi, not good.",1,2024-06-19,Negative
+Vivo,V19,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2023-03-08,Positive
+Samsung,S24,Gaming chesthe heat ekkuva avutundi.,1,2022-07-17,Negative
+Nokia,8.3,Amazing speed and smooth gaming.,5,2024-03-28,Positive
+Xiaomi,Redmi Note 12,Charging time ekkuva padutundi.,2,2024-05-14,Negative
+Oppo,Reno 6,Amazing speed and smooth gaming.,5,2022-10-01,Positive
+Samsung,S23,"Camera super ga undi, performance bagundi.",5,2021-06-15,Positive
+Vivo,V19,Camera quality ok but not great.,2,2023-10-28,Negative
+Poco,X3,"Battery baaledu, fast drain avutundi.",1,2020-08-11,Negative
+Oppo,Reno 8,"Design chala attractive ga undi, worth buying.",5,2024-07-26,Positive
+Samsung,S20,"Battery life average, one day matrame.",3,2022-04-03,Neutral
+Nokia,7.2,"Performance top notch, lag e ledhu.",4,2020-05-20,Positive
+OnePlus,7T,Cost ekkuva but features super.,5,2023-07-17,Positive
+Xiaomi,Mi 12,"Camera quality bagundi, especially night mode.",5,2023-01-17,Positive
+Apple,iPhone 13,Display quality next level 🔥,4,2023-11-30,Positive
+Apple,iPhone 15,"Sound system fine, not too loud.",3,2021-09-08,Neutral
+Samsung,S23,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2024-08-29,Positive
+Nokia,6.1,"Battery life average, one day matrame.",3,2022-06-15,Neutral
+Oppo,A52,"Camera quality bagundi, especially night mode.",5,2024-01-09,Positive
+Nokia,5.4,"Sound system fine, not too loud.",3,2023-12-06,Neutral
+Poco,F5,"Design chala attractive ga undi, worth buying.",4,2024-01-05,Positive
+OnePlus,10 Pro,Performance parvaledu.,3,2021-10-22,Neutral
+Xiaomi,Redmi Note 9,"Ok ok mobile, nothing special.",3,2024-08-07,Neutral
+Xiaomi,Redmi Note 12,"Display ok, colors normal ga unnayi.",3,2021-05-09,Neutral
+Poco,F4,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-12-01,Positive
+Motorola,G8,"Price thakkuva undali, too costly.",2,2020-10-10,Negative
+OnePlus,10 Pro,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2023-12-05,Positive
+Vivo,V15,Gaming chesthe heat ekkuva avutundi.,1,2023-08-29,Negative
+Poco,F3,Design simple ga undi.,3,2021-12-29,Neutral
+Motorola,G8,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2020-02-20,Positive
+Samsung,S22,"Battery baaledu, fast drain avutundi.",2,2023-09-14,Negative
+Nokia,5.4,"Camera super ga undi, performance bagundi.",5,2022-11-14,Positive
+Xiaomi,Redmi Note 9,"Camera super ga undi, performance bagundi.",4,2024-07-29,Positive
+Oppo,A54,"Screen quality average, not impressed.",2,2023-04-10,Negative
+Samsung,S23,Gaming chesthe heat ekkuva avutundi.,1,2023-01-09,Negative
+Vivo,V19,"Ok for regular tasks, gaming ki not suitable.",3,2020-08-27,Neutral
+Samsung,S23,"Screen quality average, not impressed.",1,2024-02-27,Negative
+Nokia,8.3,"Super fast charging, baaga impress ayyanu.",5,2022-11-24,Positive
+Samsung,S23,Camera quality ok but not great.,2,2022-10-31,Negative
+Samsung,S21,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-09-28,Positive
+Xiaomi,Mi 12,"Camera quality bagundi, especially night mode.",5,2023-11-12,Positive
+Xiaomi,Redmi Note 10,"Ok ok mobile, nothing special.",3,2023-10-23,Neutral
+Apple,iPhone 15,"Camera parvaledu, not bad.",3,2024-03-30,Neutral
+OnePlus,9 Pro,"Battery baaledu, fast drain avutundi.",1,2021-09-11,Negative
+Realme,Realme 7,Amazing speed and smooth gaming.,4,2020-01-22,Positive
+Oppo,Reno 8,"Camera quality bagundi, especially night mode.",5,2022-10-17,Positive
+Realme,Realme 8,Updates slow ga vastunnayi.,2,2020-05-01,Negative
+Poco,F3,"Super fast charging, baaga impress ayyanu.",5,2022-05-28,Positive
+OnePlus,11,"Performance top notch, lag e ledhu.",5,2023-07-20,Positive
+OnePlus,11,"Average performance, normal usage ki saripothundi.",3,2020-09-06,Neutral
+Nokia,7.2,"Sound system fine, not too loud.",3,2022-04-21,Neutral
+Samsung,S22,"Ok for regular tasks, gaming ki not suitable.",3,2022-06-15,Neutral
+Apple,iPhone 15,"Ok for regular tasks, gaming ki not suitable.",3,2022-08-16,Neutral
+Vivo,V23,"Super fast charging, baaga impress ayyanu.",5,2020-04-12,Positive
+Motorola,G32,"Design chala attractive ga undi, worth buying.",5,2023-10-03,Positive
+Motorola,G22,Display quality next level 🔥,4,2020-11-05,Positive
+Samsung,S22,Camera quality ok but not great.,1,2021-06-26,Negative
+Samsung,S21,"Price thakkuva undali, too costly.",2,2020-09-17,Negative
+Samsung,S23,Gaming chesthe heat ekkuva avutundi.,1,2020-10-30,Negative
+OnePlus,9 Pro,Display quality next level 🔥,5,2020-04-04,Positive
+Poco,F3,"Camera quality bagundi, especially night mode.",4,2023-02-20,Positive
+Realme,Realme 8,Gaming chesthe heat ekkuva avutundi.,2,2023-05-02,Negative
+Motorola,G9,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2023-07-28,Positive
+Poco,F5,"Camera super ga undi, performance bagundi.",5,2024-08-08,Positive
+Oppo,A74,"Price kuda parvaledu, value for money.",3,2023-07-29,Neutral
+Xiaomi,Redmi Note 12,"Battery baaledu, fast drain avutundi.",1,2023-10-14,Negative
+OnePlus,8T,"Heating issue vachesindi, not good.",2,2023-10-25,Negative
+Poco,F3,"Battery life average, one day matrame.",3,2020-05-11,Neutral
+Nokia,6.1,"Super fast charging, baaga impress ayyanu.",4,2021-09-28,Positive
+Samsung,S23,"Screen quality average, not impressed.",1,2020-11-18,Negative
+Apple,iPhone 13,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2024-01-12,Positive
+Vivo,V19,"Camera quality bagundi, especially night mode.",5,2022-12-27,Positive
+Realme,Realme 10,Design outdated ga anipistundi.,2,2022-06-18,Negative
+Nokia,6.1,"Camera parvaledu, not bad.",3,2024-08-20,Neutral
+Poco,F4,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-05-26,Positive
+Realme,Realme 7,Charging time ekkuva padutundi.,1,2021-02-21,Negative
+Vivo,V15,Cost ekkuva but features super.,5,2023-10-14,Positive
+Oppo,Reno 8,"Heating issue vachesindi, not good.",2,2021-07-20,Negative
+Poco,X3,Cost ekkuva but features super.,4,2023-06-17,Positive
+Xiaomi,Redmi Note 12,"Camera quality bagundi, especially night mode.",5,2020-10-06,Positive
+Vivo,V19,Camera quality ok but not great.,2,2021-04-29,Negative
+Xiaomi,Redmi Note 11,"Screen quality average, not impressed.",2,2023-12-04,Negative
+Oppo,Reno 8,"Performance top notch, lag e ledhu.",4,2024-05-17,Positive
+Vivo,V17,"Average performance, normal usage ki saripothundi.",3,2022-11-18,Neutral
+Oppo,Reno 6,"Design chala attractive ga undi, worth buying.",4,2020-10-25,Positive
+Poco,F5,Cost ekkuva but features super.,4,2022-01-08,Positive
+OnePlus,11,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2020-06-28,Positive
+Poco,X4,Cost ekkuva but features super.,4,2022-07-30,Positive
+Motorola,G8,"Super fast charging, baaga impress ayyanu.",4,2020-09-09,Positive
+OnePlus,8T,Gaming chesthe heat ekkuva avutundi.,1,2022-01-20,Negative
+Oppo,A74,Display quality next level 🔥,5,2021-12-18,Positive
+Samsung,S20,Performance slow ga undi.,1,2024-05-11,Negative
+Apple,iPhone 12,"Price thakkuva undali, too costly.",2,2022-08-23,Negative
+Poco,F5,"Camera super ga undi, performance bagundi.",5,2022-06-06,Positive
+Xiaomi,Redmi Note 10,Gaming chesthe heat ekkuva avutundi.,1,2023-05-20,Negative
+Samsung,S24,"Design chala attractive ga undi, worth buying.",4,2024-01-25,Positive
+Apple,iPhone 13,"Ok for regular tasks, gaming ki not suitable.",3,2024-04-04,Neutral
+Samsung,S21,"Battery life average, one day matrame.",3,2024-02-24,Neutral
+Nokia,7.2,"Price kuda parvaledu, value for money.",3,2020-05-25,Neutral
+OnePlus,8T,"Performance top notch, lag e ledhu.",4,2024-06-27,Positive
+Xiaomi,Redmi Note 10,Charging time ekkuva padutundi.,2,2023-09-29,Negative
+Realme,Realme 10,"Super fast charging, baaga impress ayyanu.",4,2024-01-14,Positive
+Realme,Realme 6,"Camera quality bagundi, especially night mode.",5,2023-05-18,Positive
+Motorola,G9,"Battery life average, one day matrame.",3,2021-02-09,Neutral
+Nokia,8.3,Design outdated ga anipistundi.,2,2020-08-03,Negative
+Motorola,G10,"Heating issue vachesindi, not good.",1,2022-09-15,Negative
+Realme,Realme 11,Amazing speed and smooth gaming.,4,2021-08-21,Positive
+Realme,Realme 6,"Performance top notch, lag e ledhu.",5,2021-02-16,Positive
+Motorola,G32,Gaming chesthe heat ekkuva avutundi.,2,2021-05-09,Negative
+Xiaomi,Redmi Note 12,"Camera quality bagundi, especially night mode.",4,2022-02-08,Positive
+OnePlus,9 Pro,"Sound system fine, not too loud.",3,2023-11-26,Neutral
+Realme,Realme 6,Amazing speed and smooth gaming.,5,2022-02-02,Positive
+Apple,iPhone 13,Charging time ekkuva padutundi.,1,2020-02-11,Negative
+Samsung,S23,"Camera super ga undi, performance bagundi.",5,2024-08-27,Positive
+OnePlus,7T,"Battery baaledu, fast drain avutundi.",1,2020-04-09,Negative
+OnePlus,8T,Performance slow ga undi.,1,2020-06-23,Negative
+Poco,F5,"Camera quality bagundi, especially night mode.",5,2023-09-30,Positive
+Poco,X4,Gaming chesthe heat ekkuva avutundi.,1,2023-05-30,Negative
+Xiaomi,Mi 12,Cost ekkuva but features super.,4,2023-01-20,Positive
+Nokia,C21,"Camera quality bagundi, especially night mode.",4,2020-08-10,Positive
+Oppo,A52,"Camera parvaledu, not bad.",3,2020-04-05,Neutral
+Realme,Realme 11,Display quality next level 🔥,5,2022-03-31,Positive
+Xiaomi,Mi 12,"Super fast charging, baaga impress ayyanu.",5,2021-11-05,Positive
+Xiaomi,Redmi Note 12,"Price thakkuva undali, too costly.",1,2023-07-14,Negative
+Xiaomi,Redmi Note 11,"Ok ok mobile, nothing special.",3,2024-07-18,Neutral
+Oppo,A54,"Camera parvaledu, not bad.",3,2020-01-16,Neutral
+Oppo,A52,Cost ekkuva but features super.,5,2024-06-21,Positive
+Vivo,V25,Design outdated ga anipistundi.,2,2023-06-25,Negative
+Nokia,C21,Display quality next level 🔥,5,2022-10-31,Positive
+Samsung,S23,"Ok for regular tasks, gaming ki not suitable.",3,2021-10-22,Neutral
+OnePlus,9 Pro,Display quality next level 🔥,4,2021-03-06,Positive
+Motorola,G32,"Performance top notch, lag e ledhu.",4,2020-01-28,Positive
+Samsung,S20,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2023-08-26,Positive
+Xiaomi,Redmi Note 9,Cost ekkuva but features super.,4,2024-02-18,Positive
+Motorola,G10,"Ok ok mobile, nothing special.",3,2022-03-11,Neutral
+Apple,iPhone 15,"Heating issue vachesindi, not good.",1,2024-06-03,Negative
+Motorola,G22,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2024-02-15,Positive
+OnePlus,11,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2024-01-03,Positive
+Nokia,8.3,"Battery baaledu, fast drain avutundi.",1,2021-03-29,Negative
+Nokia,5.4,"Camera parvaledu, not bad.",3,2020-04-02,Neutral
+OnePlus,9 Pro,Gaming chesthe heat ekkuva avutundi.,2,2023-08-10,Negative
+Apple,iPhone 12,Design outdated ga anipistundi.,2,2023-11-03,Negative
+OnePlus,7T,Gaming chesthe heat ekkuva avutundi.,2,2021-07-29,Negative
+OnePlus,9 Pro,Cost ekkuva but features super.,4,2021-06-07,Positive
+Samsung,S22,"Design chala attractive ga undi, worth buying.",5,2021-07-01,Positive
+Apple,iPhone 11,Updates slow ga vastunnayi.,2,2023-09-12,Negative
+Poco,F5,"Performance top notch, lag e ledhu.",5,2022-12-22,Positive
+OnePlus,11,"Camera quality bagundi, especially night mode.",5,2024-02-02,Positive
+Oppo,A54,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2023-05-22,Positive
+Realme,Realme 6,"Camera quality bagundi, especially night mode.",4,2021-10-13,Positive
+Poco,X3,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2020-07-15,Positive
+Nokia,C21,"Price thakkuva undali, too costly.",1,2023-07-22,Negative
+Oppo,Reno 6,Display quality next level 🔥,4,2020-03-04,Positive
+Xiaomi,Redmi Note 9,"Price thakkuva undali, too costly.",2,2021-02-28,Negative
+Nokia,6.1,"Heating issue vachesindi, not good.",2,2021-03-10,Negative
+OnePlus,7T,"Price thakkuva undali, too costly.",1,2022-06-23,Negative
+Poco,F5,"Battery life average, one day matrame.",3,2021-06-24,Neutral
+Poco,F5,"Battery baaledu, fast drain avutundi.",1,2022-02-03,Negative
+OnePlus,8T,"Ok for regular tasks, gaming ki not suitable.",3,2020-05-09,Neutral
+Poco,X3,"Average performance, normal usage ki saripothundi.",3,2021-04-18,Neutral
+Nokia,C21,"Design chala attractive ga undi, worth buying.",5,2023-12-28,Positive
+Realme,Realme 11,"Ok for regular tasks, gaming ki not suitable.",3,2024-06-13,Neutral
+Xiaomi,Mi 12,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2020-03-18,Positive
+Oppo,A54,"Average performance, normal usage ki saripothundi.",3,2022-06-23,Neutral
+Realme,Realme 7,Gaming chesthe heat ekkuva avutundi.,1,2021-04-30,Negative
+Nokia,7.2,Amazing speed and smooth gaming.,5,2020-05-17,Positive
+Oppo,A52,"Display ok, colors normal ga unnayi.",3,2023-03-12,Neutral
+Apple,iPhone 14,Charging time ekkuva padutundi.,2,2020-04-01,Negative
+Xiaomi,Redmi Note 12,"Ok for regular tasks, gaming ki not suitable.",3,2020-11-25,Neutral
+OnePlus,9 Pro,"Performance top notch, lag e ledhu.",4,2023-08-07,Positive
+Motorola,G8,"Screen quality average, not impressed.",2,2021-03-25,Negative
+Apple,iPhone 11,"Design chala attractive ga undi, worth buying.",4,2023-10-27,Positive
+Apple,iPhone 13,"Sound system fine, not too loud.",3,2021-07-06,Neutral
+Vivo,V17,"Camera parvaledu, not bad.",3,2021-09-13,Neutral
+OnePlus,10 Pro,"Design chala attractive ga undi, worth buying.",4,2023-04-23,Positive
+Nokia,6.1,"Ok ok mobile, nothing special.",3,2022-08-24,Neutral
+Oppo,Reno 8,"Screen quality average, not impressed.",1,2021-08-27,Negative
+Nokia,C21,"Battery baaledu, fast drain avutundi.",1,2022-02-06,Negative
+Poco,X4,"Battery baaledu, fast drain avutundi.",1,2020-08-05,Negative
+Poco,X4,Cost ekkuva but features super.,4,2020-10-24,Positive
+Motorola,G10,"Ok for regular tasks, gaming ki not suitable.",3,2022-11-24,Neutral
+Xiaomi,Redmi Note 11,"Ok ok mobile, nothing special.",3,2020-06-24,Neutral
+Motorola,G8,"Camera super ga undi, performance bagundi.",5,2021-09-19,Positive
+Nokia,8.3,"Heating issue vachesindi, not good.",2,2020-02-23,Negative
+Poco,F5,Cost ekkuva but features super.,5,2022-02-27,Positive
+Samsung,S20,"Price thakkuva undali, too costly.",1,2022-01-22,Negative
+Oppo,A54,Charging time ekkuva padutundi.,1,2023-04-23,Negative
+Nokia,5.4,"Super fast charging, baaga impress ayyanu.",4,2022-03-07,Positive
+Vivo,V17,"Battery life average, one day matrame.",3,2021-03-29,Neutral
+Xiaomi,Redmi Note 11,"Camera super ga undi, performance bagundi.",4,2020-08-15,Positive
+Poco,X3,"Screen quality average, not impressed.",2,2021-06-24,Negative
+OnePlus,11,Display quality next level 🔥,5,2020-12-17,Positive
+Realme,Realme 8,"Price kuda parvaledu, value for money.",3,2022-05-26,Neutral
+Nokia,C21,Amazing speed and smooth gaming.,4,2021-04-24,Positive
+Motorola,G32,"Design chala attractive ga undi, worth buying.",4,2021-05-31,Positive
+Oppo,A74,Camera quality ok but not great.,2,2023-02-07,Negative
+OnePlus,11,Cost ekkuva but features super.,4,2023-02-02,Positive
+Vivo,V23,"Price kuda parvaledu, value for money.",3,2020-06-29,Neutral
+Poco,X4,Camera quality ok but not great.,1,2024-02-17,Negative
+Poco,X3,"Super fast charging, baaga impress ayyanu.",4,2022-09-26,Positive
+Apple,iPhone 11,Amazing speed and smooth gaming.,4,2023-09-12,Positive
+Vivo,V19,"Screen quality average, not impressed.",1,2021-12-17,Negative
+Oppo,Reno 6,"Screen quality average, not impressed.",2,2021-11-15,Negative
+Motorola,G8,Charging time ekkuva padutundi.,1,2020-05-19,Negative
+Oppo,Reno 6,Updates slow ga vastunnayi.,1,2020-11-10,Negative
+Poco,F3,Cost ekkuva but features super.,5,2020-01-30,Positive
+Realme,Realme 10,Performance slow ga undi.,1,2021-03-09,Negative
+Vivo,V17,Charging time ekkuva padutundi.,2,2023-04-05,Negative
+Poco,F4,"Battery life average, one day matrame.",3,2022-05-15,Neutral
+Motorola,G10,Display quality next level 🔥,5,2024-06-07,Positive
+Nokia,7.2,Cost ekkuva but features super.,5,2021-12-17,Positive
+OnePlus,9 Pro,Gaming chesthe heat ekkuva avutundi.,2,2020-06-30,Negative
+Poco,F3,"Camera super ga undi, performance bagundi.",4,2020-05-16,Positive
+Vivo,V19,Display quality next level 🔥,5,2020-09-07,Positive
+Apple,iPhone 15,Cost ekkuva but features super.,5,2022-12-18,Positive
+Samsung,S22,Amazing speed and smooth gaming.,4,2023-04-29,Positive
+OnePlus,9 Pro,"Battery baaledu, fast drain avutundi.",1,2020-05-30,Negative
+Xiaomi,Mi 12,Cost ekkuva but features super.,4,2020-04-20,Positive
+Apple,iPhone 13,"Camera quality bagundi, especially night mode.",5,2024-02-03,Positive
+Xiaomi,Redmi Note 9,Gaming chesthe heat ekkuva avutundi.,1,2021-09-25,Negative
+Nokia,C21,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2021-11-08,Positive
+Motorola,G10,"Camera super ga undi, performance bagundi.",4,2020-06-16,Positive
+Nokia,8.3,"Screen quality average, not impressed.",2,2023-09-05,Negative
+Apple,iPhone 14,"Ok for regular tasks, gaming ki not suitable.",3,2023-06-14,Neutral
+Samsung,S23,Amazing speed and smooth gaming.,5,2022-12-21,Positive
+Motorola,G9,"Design chala attractive ga undi, worth buying.",5,2020-02-27,Positive
+Oppo,Reno 6,"Display ok, colors normal ga unnayi.",3,2022-04-27,Neutral
+Vivo,V17,Design outdated ga anipistundi.,1,2022-03-12,Negative
+Vivo,V17,"Display ok, colors normal ga unnayi.",3,2021-02-24,Neutral
+Realme,Realme 7,Cost ekkuva but features super.,4,2021-04-19,Positive
+Motorola,G32,"Super fast charging, baaga impress ayyanu.",5,2023-06-27,Positive
+Motorola,G22,"Performance top notch, lag e ledhu.",4,2021-03-23,Positive
+Oppo,A52,Amazing speed and smooth gaming.,5,2021-11-01,Positive
+Oppo,A74,"Screen quality average, not impressed.",1,2024-08-28,Negative
+Vivo,V19,Cost ekkuva but features super.,4,2020-08-04,Positive
+Vivo,V15,Cost ekkuva but features super.,4,2024-01-07,Positive
+Oppo,Reno 6,Performance parvaledu.,3,2023-06-19,Neutral
+Xiaomi,Redmi Note 12,"Camera parvaledu, not bad.",3,2024-01-17,Neutral
+Vivo,V23,"Price kuda parvaledu, value for money.",3,2022-12-28,Neutral
+OnePlus,10 Pro,"Design chala attractive ga undi, worth buying.",4,2022-06-28,Positive
+Nokia,8.3,Cost ekkuva but features super.,5,2024-03-31,Positive
+Apple,iPhone 11,"Price thakkuva undali, too costly.",2,2024-05-24,Negative
+Realme,Realme 10,"Price thakkuva undali, too costly.",1,2021-06-10,Negative
+Xiaomi,Redmi Note 12,"Price thakkuva undali, too costly.",1,2021-08-26,Negative
+Vivo,V19,"Performance top notch, lag e ledhu.",4,2022-11-12,Positive
+Xiaomi,Redmi Note 10,Performance parvaledu.,3,2023-07-07,Neutral
+Nokia,6.1,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2020-01-06,Positive
+Vivo,V15,Display quality next level 🔥,4,2020-11-03,Positive
+Samsung,S20,"Screen quality average, not impressed.",2,2021-02-03,Negative
+Motorola,G32,Display quality next level 🔥,5,2022-04-17,Positive
+Oppo,Reno 6,"Performance top notch, lag e ledhu.",4,2022-06-27,Positive
+Oppo,A52,Design outdated ga anipistundi.,1,2023-12-30,Negative
+Poco,X3,Display quality next level 🔥,4,2020-08-13,Positive
+Oppo,A74,"Price thakkuva undali, too costly.",2,2024-01-08,Negative
+Apple,iPhone 15,Camera quality ok but not great.,1,2022-08-26,Negative
+OnePlus,7T,"Super fast charging, baaga impress ayyanu.",5,2022-03-10,Positive
+Poco,F3,"Price kuda parvaledu, value for money.",3,2020-10-04,Neutral
+Vivo,V25,"Sound system fine, not too loud.",3,2022-12-13,Neutral
+Apple,iPhone 15,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2021-12-07,Positive
+Nokia,8.3,Charging time ekkuva padutundi.,1,2021-11-04,Negative
+Poco,X4,"Battery baaledu, fast drain avutundi.",1,2024-01-26,Negative
+Oppo,A52,"Battery baaledu, fast drain avutundi.",2,2021-06-24,Negative
+Realme,Realme 8,Camera quality ok but not great.,1,2021-04-19,Negative
+Samsung,S21,"Super fast charging, baaga impress ayyanu.",4,2022-04-05,Positive
+Motorola,G8,"Screen quality average, not impressed.",1,2020-01-05,Negative
+Realme,Realme 6,"Ok for regular tasks, gaming ki not suitable.",3,2023-05-26,Neutral
+Nokia,C21,"Design chala attractive ga undi, worth buying.",5,2022-08-22,Positive
+OnePlus,9 Pro,"Heating issue vachesindi, not good.",2,2022-02-09,Negative
+Samsung,S21,Performance parvaledu.,3,2022-05-09,Neutral
+Xiaomi,Redmi Note 10,Updates slow ga vastunnayi.,2,2022-07-22,Negative
+Oppo,Reno 8,"Design chala attractive ga undi, worth buying.",4,2021-03-24,Positive
+Samsung,S24,Amazing speed and smooth gaming.,5,2024-03-24,Positive
+Apple,iPhone 12,"Super fast charging, baaga impress ayyanu.",4,2020-01-01,Positive
+Nokia,5.4,"Performance top notch, lag e ledhu.",4,2022-04-22,Positive
+Realme,Realme 11,"Ok ok mobile, nothing special.",3,2024-07-13,Neutral
+Motorola,G10,"Camera super ga undi, performance bagundi.",4,2024-03-16,Positive
+Samsung,S22,Cost ekkuva but features super.,5,2020-07-29,Positive
+Samsung,S21,"Ok ok mobile, nothing special.",3,2020-06-16,Neutral
+Poco,F3,Updates slow ga vastunnayi.,1,2021-06-17,Negative
+Apple,iPhone 14,"Sound system fine, not too loud.",3,2023-07-28,Neutral
+Nokia,5.4,"Heating issue vachesindi, not good.",1,2020-10-12,Negative
+Oppo,A52,"Average performance, normal usage ki saripothundi.",3,2020-11-21,Neutral
+Apple,iPhone 13,"Camera quality bagundi, especially night mode.",5,2023-10-27,Positive
+Nokia,5.4,"Super fast charging, baaga impress ayyanu.",5,2020-06-12,Positive
+Vivo,V17,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-11-02,Positive
+Xiaomi,Redmi Note 9,Cost ekkuva but features super.,5,2021-06-18,Positive
+Oppo,Reno 6,"Camera super ga undi, performance bagundi.",4,2020-12-04,Positive
+Xiaomi,Redmi Note 9,"Sound system fine, not too loud.",3,2021-01-19,Neutral
+Vivo,V15,Performance slow ga undi.,1,2020-09-08,Negative
+Motorola,G22,"Ok ok mobile, nothing special.",3,2020-06-07,Neutral
+Realme,Realme 6,"Design chala attractive ga undi, worth buying.",5,2020-09-21,Positive
+Samsung,S24,"Camera quality bagundi, especially night mode.",4,2020-08-03,Positive
+Samsung,S20,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2021-01-21,Positive
+Xiaomi,Redmi Note 12,"Performance top notch, lag e ledhu.",5,2020-04-22,Positive
+Vivo,V15,"Performance top notch, lag e ledhu.",4,2023-07-25,Positive
+Realme,Realme 11,"Super fast charging, baaga impress ayyanu.",5,2020-01-28,Positive
+Vivo,V17,"Ok ok mobile, nothing special.",3,2023-05-21,Neutral
+Realme,Realme 8,Amazing speed and smooth gaming.,4,2022-03-15,Positive
+Apple,iPhone 15,Performance parvaledu.,3,2020-07-12,Neutral
+Motorola,G9,"Performance top notch, lag e ledhu.",4,2023-02-13,Positive
+OnePlus,8T,"Super fast charging, baaga impress ayyanu.",4,2024-07-05,Positive
+Motorola,G8,"Ok ok mobile, nothing special.",3,2022-05-06,Neutral
+Poco,F3,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-04-29,Positive
+Motorola,G8,"Screen quality average, not impressed.",1,2023-12-05,Negative
+Samsung,S24,"Ok for regular tasks, gaming ki not suitable.",3,2021-03-14,Neutral
+Xiaomi,Redmi Note 11,"Screen quality average, not impressed.",2,2021-02-21,Negative
+Xiaomi,Mi 12,Gaming chesthe heat ekkuva avutundi.,2,2020-12-04,Negative
+Samsung,S20,"Super fast charging, baaga impress ayyanu.",5,2022-03-08,Positive
+Apple,iPhone 14,Cost ekkuva but features super.,5,2020-07-31,Positive
+OnePlus,8T,Display quality next level 🔥,4,2020-05-27,Positive
+Samsung,S20,"Price thakkuva undali, too costly.",2,2022-01-13,Negative
+Nokia,7.2,"Performance top notch, lag e ledhu.",5,2022-12-24,Positive
+Realme,Realme 8,"Average performance, normal usage ki saripothundi.",3,2024-08-17,Neutral
+Samsung,S21,"Camera quality bagundi, especially night mode.",5,2021-09-11,Positive
+Poco,F4,Design outdated ga anipistundi.,1,2021-05-09,Negative
+OnePlus,9 Pro,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-05-07,Positive
+Nokia,5.4,"Performance top notch, lag e ledhu.",4,2023-07-17,Positive
+Realme,Realme 10,"Battery baaledu, fast drain avutundi.",1,2023-01-30,Negative
+Realme,Realme 8,"Camera super ga undi, performance bagundi.",4,2022-01-15,Positive
+OnePlus,8T,"Super fast charging, baaga impress ayyanu.",4,2021-10-21,Positive
+OnePlus,7T,"Price thakkuva undali, too costly.",2,2022-11-07,Negative
+Xiaomi,Redmi Note 10,"Super fast charging, baaga impress ayyanu.",4,2022-05-16,Positive
+Apple,iPhone 15,"Camera super ga undi, performance bagundi.",5,2020-03-15,Positive
+Motorola,G9,"Camera super ga undi, performance bagundi.",4,2021-03-07,Positive
+Xiaomi,Redmi Note 9,"Camera parvaledu, not bad.",3,2021-12-20,Neutral
+Apple,iPhone 11,"Camera quality bagundi, especially night mode.",5,2022-09-22,Positive
+Motorola,G10,"Camera parvaledu, not bad.",3,2022-09-14,Neutral
+Vivo,V23,Camera quality ok but not great.,2,2021-01-22,Negative
+Vivo,V25,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2024-08-09,Positive
+Apple,iPhone 12,"Super fast charging, baaga impress ayyanu.",4,2021-01-10,Positive
+Motorola,G9,"Camera super ga undi, performance bagundi.",4,2020-11-18,Positive
+Nokia,8.3,Design outdated ga anipistundi.,1,2021-01-08,Negative
+Oppo,Reno 8,"Screen quality average, not impressed.",2,2023-08-23,Negative
+Oppo,Reno 8,Design outdated ga anipistundi.,2,2022-09-09,Negative
+Oppo,Reno 8,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2021-10-04,Positive
+Vivo,V15,Design outdated ga anipistundi.,1,2023-04-02,Negative
+Motorola,G9,Charging time ekkuva padutundi.,1,2020-07-29,Negative
+Motorola,G8,Amazing speed and smooth gaming.,5,2024-06-17,Positive
+Samsung,S21,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2024-08-16,Positive
+Vivo,V25,"Screen quality average, not impressed.",2,2020-12-15,Negative
+Motorola,G32,Display quality next level 🔥,5,2020-11-15,Positive
+Apple,iPhone 13,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2021-07-10,Positive
+Poco,X4,"Price kuda parvaledu, value for money.",3,2022-12-05,Neutral
+Vivo,V19,"Price thakkuva undali, too costly.",2,2021-10-13,Negative
+Oppo,A74,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2022-04-26,Positive
+Realme,Realme 10,Cost ekkuva but features super.,5,2020-03-09,Positive
+Xiaomi,Redmi Note 12,Updates slow ga vastunnayi.,1,2024-04-17,Negative
+Motorola,G10,Charging time ekkuva padutundi.,2,2020-07-17,Negative
+Realme,Realme 6,"Average performance, normal usage ki saripothundi.",3,2021-08-31,Neutral
+Oppo,A52,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2022-11-28,Positive
+Vivo,V17,Cost ekkuva but features super.,4,2020-04-20,Positive
+OnePlus,8T,"Ok for regular tasks, gaming ki not suitable.",3,2020-08-05,Neutral
+Realme,Realme 6,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2023-12-12,Positive
+Nokia,5.4,Design simple ga undi.,3,2023-01-28,Neutral
+Vivo,V17,"Ok for regular tasks, gaming ki not suitable.",3,2023-04-17,Neutral
+Realme,Realme 7,Cost ekkuva but features super.,5,2020-08-03,Positive
+Vivo,V15,"Design chala attractive ga undi, worth buying.",4,2020-08-22,Positive
+Xiaomi,Redmi Note 9,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2021-03-09,Positive
+Nokia,6.1,Cost ekkuva but features super.,4,2023-07-06,Positive
+Xiaomi,Redmi Note 12,Amazing speed and smooth gaming.,5,2024-07-14,Positive
+Nokia,6.1,Charging time ekkuva padutundi.,1,2024-01-03,Negative
+Apple,iPhone 11,"Camera super ga undi, performance bagundi.",4,2021-02-19,Positive
+Realme,Realme 8,"Sound system fine, not too loud.",3,2021-03-14,Neutral
+Motorola,G32,"Design chala attractive ga undi, worth buying.",4,2023-06-26,Positive
+Oppo,Reno 8,"Design chala attractive ga undi, worth buying.",4,2020-03-28,Positive
+Realme,Realme 7,"Battery baaledu, fast drain avutundi.",2,2021-05-09,Negative
+Xiaomi,Redmi Note 12,Amazing speed and smooth gaming.,4,2023-04-11,Positive
+Oppo,A54,"Heating issue vachesindi, not good.",2,2021-02-27,Negative
+Oppo,A74,Cost ekkuva but features super.,4,2020-12-26,Positive
+Oppo,A74,Camera quality ok but not great.,1,2021-01-27,Negative
+Motorola,G9,"Battery baaga hold chestundi, heavy usage lo kuda.",5,2021-04-13,Positive
+Samsung,S22,Charging time ekkuva padutundi.,2,2023-05-08,Negative
+OnePlus,10 Pro,"Camera quality bagundi, especially night mode.",4,2023-07-05,Positive
+Samsung,S22,Cost ekkuva but features super.,4,2023-05-28,Positive
+Apple,iPhone 15,"Performance top notch, lag e ledhu.",5,2022-09-24,Positive
+Nokia,5.4,"Camera quality bagundi, especially night mode.",5,2021-09-24,Positive
+Oppo,A52,"Super fast charging, baaga impress ayyanu.",5,2024-01-22,Positive
+Poco,F4,"Price kuda parvaledu, value for money.",3,2023-03-29,Neutral
+Vivo,V17,"Camera super ga undi, performance bagundi.",4,2023-04-20,Positive
+Nokia,6.1,"Battery life average, one day matrame.",3,2022-05-28,Neutral
+Vivo,V15,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2023-04-04,Positive
+Xiaomi,Redmi Note 12,"Screen quality average, not impressed.",2,2023-08-23,Negative
+Xiaomi,Redmi Note 11,"Design chala attractive ga undi, worth buying.",5,2021-08-10,Positive
+Oppo,Reno 8,"Display ok, colors normal ga unnayi.",3,2021-08-31,Neutral
+Poco,X3,"Design chala attractive ga undi, worth buying.",5,2023-06-07,Positive
+Apple,iPhone 14,Display quality next level 🔥,5,2023-01-21,Positive
+Oppo,Reno 8,Amazing speed and smooth gaming.,4,2022-07-17,Positive
+Motorola,G22,Performance slow ga undi.,1,2022-11-28,Negative
+OnePlus,11,"Performance top notch, lag e ledhu.",5,2020-05-27,Positive
+Xiaomi,Redmi Note 10,"Price kuda parvaledu, value for money.",3,2022-07-23,Neutral
+Vivo,V25,"Performance top notch, lag e ledhu.",5,2023-07-18,Positive
+Realme,Realme 10,Display quality next level 🔥,4,2024-01-07,Positive
+Apple,iPhone 11,Display quality next level 🔥,5,2021-05-12,Positive
+Motorola,G9,"Camera super ga undi, performance bagundi.",4,2020-01-03,Positive
+Apple,iPhone 11,"Super fast charging, baaga impress ayyanu.",4,2024-03-14,Positive
+Samsung,S24,"Performance top notch, lag e ledhu.",4,2024-01-05,Positive
+Realme,Realme 11,"Camera quality bagundi, especially night mode.",5,2020-06-29,Positive
+Vivo,V19,Design outdated ga anipistundi.,2,2024-02-09,Negative
+Motorola,G32,"Camera quality bagundi, especially night mode.",4,2024-06-06,Positive
+Nokia,6.1,Charging time ekkuva padutundi.,2,2022-01-05,Negative
+Xiaomi,Mi 12,"Ok ok mobile, nothing special.",3,2022-12-09,Neutral
+Xiaomi,Redmi Note 9,"Display ok, colors normal ga unnayi.",3,2023-01-11,Neutral
+Nokia,8.3,Performance slow ga undi.,2,2020-07-02,Negative
+Oppo,A74,Performance slow ga undi.,1,2020-04-14,Negative
+Apple,iPhone 12,"Performance top notch, lag e ledhu.",5,2024-03-29,Positive
+Samsung,S22,Performance slow ga undi.,1,2022-03-17,Negative
+Realme,Realme 8,"Ok ok mobile, nothing special.",3,2021-01-03,Neutral
+Apple,iPhone 12,Display quality next level 🔥,4,2024-02-10,Positive
+OnePlus,7T,Display quality next level 🔥,4,2021-04-20,Positive
+Vivo,V15,Charging time ekkuva padutundi.,2,2022-10-29,Negative
+Poco,F5,"Battery baaledu, fast drain avutundi.",1,2022-08-23,Negative
+Apple,iPhone 13,"Performance top notch, lag e ledhu.",5,2022-04-13,Positive
+Samsung,S22,"Camera quality bagundi, especially night mode.",4,2024-01-02,Positive
+Poco,X3,"Design chala attractive ga undi, worth buying.",5,2023-05-29,Positive
+Motorola,G8,"Ok for regular tasks, gaming ki not suitable.",3,2023-08-25,Neutral
+Poco,F4,"Ok for regular tasks, gaming ki not suitable.",3,2021-01-16,Neutral
+Samsung,S22,Charging time ekkuva padutundi.,1,2022-11-07,Negative
+Poco,X4,Display quality next level 🔥,5,2022-04-11,Positive
+Nokia,8.3,Design outdated ga anipistundi.,1,2020-07-11,Negative
+Vivo,V17,Performance slow ga undi.,1,2020-08-27,Negative
+Vivo,V23,"Super fast charging, baaga impress ayyanu.",4,2022-06-03,Positive
+Nokia,C21,Cost ekkuva but features super.,5,2022-03-25,Positive
+Xiaomi,Redmi Note 10,"Camera quality bagundi, especially night mode.",4,2021-09-14,Positive
+Samsung,S20,"Performance top notch, lag e ledhu.",5,2024-02-19,Positive
+Oppo,A52,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2021-10-28,Positive
+Realme,Realme 8,"Heating issue vachesindi, not good.",2,2022-04-30,Negative
+Poco,X4,"Battery baaledu, fast drain avutundi.",1,2020-07-16,Negative
+Xiaomi,Redmi Note 9,"Performance top notch, lag e ledhu.",5,2021-01-31,Positive
+Motorola,G10,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2020-05-27,Positive
+Apple,iPhone 14,Amazing speed and smooth gaming.,5,2024-06-01,Positive
+Samsung,S20,"Price kuda parvaledu, value for money.",3,2023-08-01,Neutral
+Samsung,S22,"Super fast charging, baaga impress ayyanu.",4,2020-12-04,Positive
+Motorola,G9,"Camera super ga undi, performance bagundi.",4,2020-08-14,Positive
+Oppo,Reno 8,Camera quality ok but not great.,1,2024-01-22,Negative
+Samsung,S24,"Price kuda parvaledu, value for money.",3,2022-09-24,Neutral
+Xiaomi,Redmi Note 10,"Average performance, normal usage ki saripothundi.",3,2023-02-12,Neutral
+Samsung,S24,Display quality next level 🔥,4,2024-07-04,Positive
+OnePlus,8T,Updates slow ga vastunnayi.,1,2023-01-17,Negative
+Samsung,S21,"Design chala attractive ga undi, worth buying.",4,2023-03-03,Positive
+Vivo,V23,"Camera super ga undi, performance bagundi.",5,2024-04-16,Positive
+Samsung,S20,"Battery life average, one day matrame.",3,2021-12-07,Neutral
+Oppo,Reno 6,Charging time ekkuva padutundi.,1,2022-01-28,Negative
+Vivo,V25,"Camera quality bagundi, especially night mode.",4,2020-06-05,Positive
+Apple,iPhone 13,"Camera quality bagundi, especially night mode.",5,2024-01-11,Positive
+Oppo,A54,"Performance top notch, lag e ledhu.",4,2023-03-01,Positive
+Realme,Realme 6,Display quality next level 🔥,5,2020-10-30,Positive
+OnePlus,8T,"Sound system fine, not too loud.",3,2020-09-30,Neutral
+OnePlus,7T,"Camera super ga undi, performance bagundi.",4,2020-11-14,Positive
+Apple,iPhone 12,Charging time ekkuva padutundi.,1,2021-04-21,Negative
+Motorola,G22,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2023-03-24,Positive
+Samsung,S21,Charging time ekkuva padutundi.,1,2024-08-04,Negative
+Poco,X4,"Performance top notch, lag e ledhu.",4,2020-05-17,Positive
+Realme,Realme 11,"Battery baaledu, fast drain avutundi.",1,2020-10-25,Negative
+Apple,iPhone 15,"Display ok, colors normal ga unnayi.",3,2023-08-25,Neutral
+OnePlus,7T,"Battery baaledu, fast drain avutundi.",1,2024-08-19,Negative
+Realme,Realme 8,Design simple ga undi.,3,2020-11-19,Neutral
+Realme,Realme 7,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2024-03-16,Positive
+Samsung,S23,"Camera quality bagundi, especially night mode.",5,2023-09-02,Positive
+Vivo,V17,"Heating issue vachesindi, not good.",1,2020-01-12,Negative
+Vivo,V19,"Battery baaga hold chestundi, heavy usage lo kuda.",4,2022-12-21,Positive
+Vivo,V25,"Battery life excellent, 2 rojulu easy ga vastundi.",4,2023-02-14,Positive
+Samsung,S20,"Screen quality average, not impressed.",2,2024-08-08,Negative
+Apple,iPhone 14,Design outdated ga anipistundi.,1,2022-09-06,Negative
+Apple,iPhone 15,"Camera super ga undi, performance bagundi.",5,2023-04-25,Positive
+Nokia,8.3,Design simple ga undi.,3,2023-05-12,Neutral
+Xiaomi,Redmi Note 11,"Super fast charging, baaga impress ayyanu.",4,2022-03-28,Positive
+Vivo,V19,Updates slow ga vastunnayi.,1,2021-04-23,Negative
+Oppo,A52,"Camera super ga undi, performance bagundi.",5,2020-02-08,Positive
+Samsung,S23,Amazing speed and smooth gaming.,5,2024-02-17,Positive
+Realme,Realme 7,"Sound system fine, not too loud.",3,2023-11-10,Neutral
+Samsung,S22,Design simple ga undi.,3,2021-11-17,Neutral
+Apple,iPhone 11,Cost ekkuva but features super.,4,2022-04-03,Positive
+Xiaomi,Redmi Note 11,Camera quality ok but not great.,1,2020-05-05,Negative
+Apple,iPhone 15,Charging time ekkuva padutundi.,2,2021-05-19,Negative
+Apple,iPhone 11,"Battery life average, one day matrame.",3,2021-11-19,Neutral
+Apple,iPhone 14,"Battery baaledu, fast drain avutundi.",1,2022-05-05,Negative
+Realme,Realme 8,"Battery life average, one day matrame.",3,2023-01-17,Neutral
+Samsung,S22,"Price thakkuva undali, too costly.",2,2023-03-27,Negative
+Samsung,S23,Display quality next level 🔥,4,2021-08-31,Positive
+Apple,iPhone 11,Performance slow ga undi.,1,2023-01-12,Negative
+Oppo,Reno 6,"Super fast charging, baaga impress ayyanu.",4,2021-04-05,Positive
+Samsung,S20,Amazing speed and smooth gaming.,5,2024-02-14,Positive
+Nokia,8.3,"Battery life excellent, 2 rojulu easy ga vastundi.",5,2022-04-27,Positive
+OnePlus,9 Pro,"Super fast charging, baaga impress ayyanu.",4,2021-12-05,Positive
+Poco,F3,"Average performance, normal usage ki saripothundi.",3,2023-11-30,Neutral
+Samsung,S22,"Ok ok mobile, nothing special.",3,2024-02-15,Neutral
+Poco,F3,"Camera parvaledu, not bad.",3,2020-03-17,Neutral
+OnePlus,7T,"Sound system fine, not too loud.",3,2020-12-21,Neutral
+Motorola,G10,"Ok for regular tasks, gaming ki not suitable.",3,2020-05-25,Neutral
+Nokia,C21,Performance slow ga undi.,2,2021-12-25,Negative
+Motorola,G9,"Design chala attractive ga undi, worth buying.",5,2023-06-04,Positive
+Nokia,6.1,"Super fast charging, baaga impress ayyanu.",5,2021-11-17,Positive
+Motorola,G10,Cost ekkuva but features super.,4,2022-01-26,Positive
+Nokia,8.3,Amazing speed and smooth gaming.,4,2022-05-06,Positive
+Nokia,7.2,"Battery life average, one day matrame.",3,2023-10-25,Neutral
+Samsung,S21,Amazing speed and smooth gaming.,5,2023-06-02,Positive
+Nokia,6.1,Display quality next level 🔥,4,2022-10-22,Positive
+Xiaomi,Mi 12,"Battery baaledu, fast drain avutundi.",2,2023-11-20,Negative
+Motorola,G22,"Performance top notch, lag e ledhu.",5,2020-06-01,Positive
+Motorola,G9,"Camera super ga undi, performance bagundi.",4,2020-10-01,Positive
+Vivo,V23,Performance slow ga undi.,2,2020-11-26,Negative
+Motorola,G8,"Camera super ga undi, performance bagundi.",4,2021-05-11,Positive
+OnePlus,9 Pro,"Camera parvaledu, not bad.",3,2023-08-15,Neutral
+Motorola,G9,"Design chala attractive ga undi, worth buying.",4,2020-07-30,Positive
+Oppo,A54,Charging time ekkuva padutundi.,2,2022-01-13,Negative
+OnePlus,9 Pro,Design simple ga undi.,3,2020-08-01,Neutral
